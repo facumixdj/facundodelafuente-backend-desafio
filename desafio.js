@@ -56,7 +56,7 @@ productManager.addProduct(producto2)
 productManager.addProduct(prodcuto3)
 productManager.addProduct(producto1)
 console.log("Prueba de que no se pueden repetir los productos") // esto sirve para avitar redundancias
-productManager.addProduct(producto1)// 
+productManager.addProduct(producto1)// a porposito esta puesto esto por segunda vez
 /* console.log(producto1)
 console.log(producto2)
 console.log(prodcuto3)
